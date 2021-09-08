@@ -1,6 +1,7 @@
 # MLforPublicPolicyLab
 
 **Part 1 : Get Data**
+
 In this assignment I have used 5 year US Census Data from 2019 (A description of variables can be found - https://www.socialexplorer.com/data/ACS2019_5yr/metadata/?ds=SE&table=A15001)
 
 In order to access the data, I used the Python library called 'censusdata' -- https://pypi.org/project/CensusData/
